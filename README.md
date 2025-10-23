@@ -18,8 +18,11 @@ All account data is stored permanently in a file using Java serialization.
 🧠 Technologies Used
 
 Language: Java
+
 IDE: IntelliJ IDEA
+
 Storage: File handling (ObjectOutputStream / ObjectInputStream)
+
 Interface: Console-based menu system
 
 
